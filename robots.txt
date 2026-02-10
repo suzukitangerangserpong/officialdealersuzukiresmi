@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://vira-suzukigadingserpong.com/sitemap.xml
+Sitemap: https://suzukitangerangserpong.github.io/officialdealersuzukiresmi/sitemap.xml
+
 
